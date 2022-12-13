@@ -1,0 +1,17 @@
+/* READ ME FILE: Nicholas Trambitas */
+
+THIS IS THE READ ME FILE FOR THE SPACE INVADERS GAME
+
+TO COMPILE:
+RUN make all
+
+TO PLAY:
+1) Have the files in "Input Files" in the same directory
+as the executable
+
+2) To change between simulation mode (command line) and
+graphic mode (game mode), open debug.h and edit the #define 
+graphics.
+
+3) After compling, to execute, input lab4 < 0.sa
+(replace 0.sa with whatever file you want to run)
